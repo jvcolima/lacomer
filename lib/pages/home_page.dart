@@ -386,7 +386,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                               crossAxisSpacing: size.width * 0.03,
                               mainAxisSpacing: size.height * 0.02,
                               crossAxisCount: 2,
-                              childAspectRatio: 0.90,
+                              childAspectRatio: 0.80,
                               physics: const ScrollPhysics(),
                               shrinkWrap: true,
                               children:
